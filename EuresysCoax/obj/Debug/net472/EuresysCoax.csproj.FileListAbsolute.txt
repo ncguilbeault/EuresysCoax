@@ -1,0 +1,16 @@
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\EuresysCoax.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\EuresysCoax.pdb
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\Bonsai.Core.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\Coaxlink_NetApi.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\OpenCV.Net.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\System.Reactive.Core.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\System.Reactive.Interfaces.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\bin\Debug\net472\System.Reactive.Linq.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.AssemblyInfoInputs.cache
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.AssemblyInfo.cs
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.csproj.CopyComplete
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.dll
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.pdb
+C:\Users\Nicholas\Documents\EuresysCoax\EuresysCoax\obj\Debug\net472\EuresysCoax.csproj.AssemblyReference.cache

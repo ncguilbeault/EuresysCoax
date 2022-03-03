@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEE642yFZf+8DoVHvfrvEL7rPyU6aLBmRFiNEv2tT+vrO0XJ7R+xIoH1SJVxXItakfAIRmTAGQg4tfmP9G1VvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\EuresysCoax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicholas\\.nuget\\packages\\bonsai.core\\2.6.2\\bonsai.core.2.6.2.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\coaxlink_netapi\\1.0.0\\coaxlink_netapi.1.0.0.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\opencv.net\\3.3.1\\opencv.net.3.3.1.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\rx-core\\2.2.5\\rx-core.2.2.5.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\rx-interfaces\\2.2.5\\rx-interfaces.2.2.5.nupkg.sha512",
+    "C:\\Users\\Nicholas\\.nuget\\packages\\rx-linq\\2.2.5\\rx-linq.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

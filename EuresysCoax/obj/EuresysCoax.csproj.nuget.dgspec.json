@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\EuresysCoax.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\EuresysCoax.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\EuresysCoax.csproj",
+        "projectName": "EuresysCoax",
+        "projectPath": "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\EuresysCoax.csproj",
+        "packagesPath": "C:\\Users\\Nicholas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\.nuget\\NuGet.Config",
+          "C:\\Users\\Nicholas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Users\\Nicholas\\Documents\\BonZeb\\BonZeb\\.nuget": {},
+          "C:\\Users\\Nicholas\\Documents\\Bonsai.EuresysCameraLink\\.nuget": {},
+          "C:\\Users\\Nicholas\\Documents\\Coaxlink_NetApi": {},
+          "C:\\Users\\Nicholas\\Documents\\EuresysCoax\\EuresysCoax": {},
+          "https://www.myget.org/F/bonsai-community/api/v3/index.json": {},
+          "https://www.myget.org/F/bonsai/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Bonsai.Core": {
+              "target": "Package",
+              "version": "[2.6.2, )"
+            },
+            "Coaxlink_NetApi": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "OpenCV.Net": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

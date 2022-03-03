@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>EuresysCoax</id>
+    <version>1.0.0</version>
+    <title>EuresysCoax Library</title>
+    <authors>Nicholas Guilbeault</authors>
+    <owners>Nicholas Guilbeault</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET wrapper for Euresys Coaxlink frame grabber.</description>
+    <copyright>Copyright © Nicholas Guilbeault 2022</copyright>
+    <tags>Bonsai Rx BonZeb Euresys Coax</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Bonsai.Core" version="2.5.0" exclude="Build,Analyzers" />
+        <dependency id="OpenCV.Net" version="3.3.1" exclude="Build,Analyzers" />
+        <dependency id="Coaxlink_NetApi" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>
